@@ -7,6 +7,6 @@ public class PrimaryController {
 
     @FXML
     private void printHello() throws IOException {
-        System.out.println("Hola, ñeri!");
+        System.out.println("Hola, amigo!");
     }
 }
